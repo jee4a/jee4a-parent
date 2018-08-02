@@ -13,7 +13,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.9.RELEASE</version>
+		<version>1.5.10.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
@@ -32,6 +32,8 @@
 		<!-- common -->
 		<commons-lang.version>2.6</commons-lang.version>
 		<commons-httpclient.version>3.1</commons-httpclient.version>
+		<!-- dubbo -->
+		<dubbo.version>0.2.0</dubbo.version>
 	</properties>
 	<dependencies></dependencies>
 	<profiles>
