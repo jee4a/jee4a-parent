@@ -33,7 +33,7 @@
 		<commons-lang.version>2.6</commons-lang.version>
 		<commons-httpclient.version>3.1</commons-httpclient.version>
 		<!-- dubbo -->
-		<dubbo.version>0.2.0</dubbo.version>
+		<dubbo.version>0.1.1</dubbo.version>
 	</properties>
 	<dependencies></dependencies>
 	<profiles>
